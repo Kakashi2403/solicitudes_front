@@ -12,6 +12,11 @@
     "src/**/*.ts"
   ],
   "exclude": [
-    "src/**/*.spec.ts"
+    "src/**/*.spec.ts",
+    "src/app/modules/auth/EJEMPLOS.ts",
+    "src/app/modules/auth/LOCAL_API_CONFIG.ts",
+    "src/app/modules/auth/SOLICITUD_HTTP_EJEMPLO.ts",
+    "src/app/modules/auth/SOLUCION_HTTPS_CORS.ts",
+    "src/app/modules/auth/TESTING.ts"
   ]
 }
